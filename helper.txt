@@ -1,0 +1,3 @@
+username = xudoyberdi
+email = xudoyberdi@gmail.com
+password = 123456
